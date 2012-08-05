@@ -1,0 +1,1 @@
+mark.vba: call delete('c:\work\apps\Vim\bundle\UltiSnips-2.0/autoload/mark.vim')|call delete('c:\work\apps\Vim\bundle\UltiSnips-2.0/plugin/mark.vim')|call delete('c:\work\apps\Vim\bundle\UltiSnips-2.0/doc/mark.txt')
