@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='c:/Documents and Settings/amarinso/Local Settings/Temp/_tc/Payload/Pesca.app/www/js/app'
-let g:netrw_dirhist_2='c:/Documents and Settings/amarinso/Local Settings/Temp/_tc/Payload/Pesca.app/www/js'
-let g:netrw_dirhist_3='c:/Documents and Settings/amarinso/Local Settings/Temp/_tc/Payload/Pesca.app/www'
-let g:netrw_dirhist_4='c:/Documents and Settings/amarinso/Local Settings/Temp/_tc/Payload/Pesca.app'

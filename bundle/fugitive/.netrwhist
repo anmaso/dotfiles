@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src/src'
-let g:netrw_dirhist_2='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src'
-let g:netrw_dirhist_3='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src/WebContent'
-let g:netrw_dirhist_4='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src/WebContent/WEB-INF'
-let g:netrw_dirhist_5='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src/WebContent/WEB-INF/jsp'
-let g:netrw_dirhist_6='c:/Documents and Settings/amarinso/capgemin_p_amarinso_pesca_dev_1/v_pesca/c_pesca_online_src/WebContent/WEB-INF/jsp/cambioPrecio'
