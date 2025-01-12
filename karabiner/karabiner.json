@@ -76,6 +76,56 @@
             ]
           },
           {
+            "description": "Nuphy in Spanish keyboard, Right command+, => ‹",
+            "manipulators": [
+              {
+                "from": {
+                  "key_code": "comma",
+                  "modifiers": {
+                    "mandatory": [
+                      "right_command"
+                    ]
+                  }
+                },
+                "to": [
+                  {
+                    "key_code": "z",
+                    "modifiers": [
+                      "left_shift",
+                      "option"
+                    ]
+                  }
+                ],
+                "type": "basic"
+              }
+            ]
+          },
+          {
+            "description": "Nuphy in Spanish keyboard, Right command+. => ›",
+            "manipulators": [
+              {
+                "from": {
+                  "key_code": "period",
+                  "modifiers": {
+                    "mandatory": [
+                      "right_command"
+                    ]
+                  }
+                },
+                "to": [
+                  {
+                    "key_code": "x",
+                    "modifiers": [
+                      "left_shift",
+                      "option"
+                    ]
+                  }
+                ],
+                "type": "basic"
+              }
+            ]
+          },
+          {
             "description": "CAPS LOCK + space -> alt+del for last word deletion",
             "manipulators": [
               {
@@ -872,7 +922,37 @@
           ]
         }
       ],
-      "name": "nada activo"
+      "name": "nada activo",
+      "virtual_hid_keyboard": {
+        "keyboard_type_v2": "ansi"
+      }
+    },
+    {
+      "devices": [
+        {
+          "identifiers": {
+            "is_keyboard": true,
+            "product_id": 12885,
+            "vendor_id": 6645
+          },
+          "simple_modifications": [
+            {
+              "from": {
+                "key_code": "open_bracket"
+              },
+              "to": [
+                {
+                  "key_code": "open_bracket"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "name": "Nuphy60",
+      "virtual_hid_keyboard": {
+        "keyboard_type_v2": "ansi"
+      }
     }
   ]
 }
